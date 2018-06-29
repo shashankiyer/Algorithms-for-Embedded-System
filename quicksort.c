@@ -8,11 +8,11 @@
  *
  *****************************************************************************/
 /**
- * @file: stats.h 
- * @brief: Contains a set of functions that compute and display an array's stats
+ * @file: quicksort.c 
+ * @brief: A sorting algorithm with O(nlogn) time and O(n) space complexity.
  *
- * Includes functions to compute the minimum, maximum, mean, median. 
- * Also has methods to sort and print the array
+ * An implementation of the quicksort algorithm for an embedded system.
+ * If memory available is inadequate, performs bubblesort.
  *
  * @author Shashank Iyer
  * @date 08-18-2018
