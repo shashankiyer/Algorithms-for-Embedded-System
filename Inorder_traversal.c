@@ -8,7 +8,7 @@
  *
  *****************************************************************************/
 /**
- * @file: DFS.c 
+ * @file: Inorder_traversal.c 
  * @brief: Traverses a Binary tree and returns its Inorder traversal
  *
  * A stack data structure has been created to facilitate this traversal.
